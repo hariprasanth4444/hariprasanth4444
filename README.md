@@ -8,7 +8,7 @@
 Welcome to my GitHub profile. Let me tell you a bit about myself:
 
 - 👨‍💻 I'm passionate about Coding and Artificial Intelligence (AI).
-- 🎓 Currently pursuing my Masters in AI, diving deep into the realms of machine learning and neural networks.
+- 🎓 Graduate student in masters in AI, diving deep into the realms of machine learning and neural networks.
 - ☁️ Learning AWS cloud to complement my AI skills and deploy scalable solutions.
 - 📧 You can reach me at: penugondahariprasanth@gmail.com
 
