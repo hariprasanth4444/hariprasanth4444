@@ -3,7 +3,7 @@
 <!--
 **hariprasanth4444/hariprasanth4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# 👋 Hi there, I'm Penugonda Hari Prasanth!
+# 👋 Hi there, I'm Hari Penugonda!
 
 Welcome to my GitHub profile. Let me tell you a bit about myself:
 
@@ -16,7 +16,7 @@ Welcome to my GitHub profile. Let me tell you a bit about myself:
 
 Let's stay in touch and collaborate on exciting projects together:
 
-- LinkedIn: [Penugonda Hari Prasanth](https://www.linkedin.com/in/hari-prasanth-penugonda-568485196)
+- LinkedIn: [Hari Penugonda](https://www.linkedin.com/in/hari-prasanth-penugonda-568485196)
 - Personal Portfolio: [HariPHP](https://hariphp.netlify.app/)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or ideas. Happy coding! 🚀
